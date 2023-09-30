@@ -4,6 +4,7 @@
   "description": "A doki theme customized for me",
   "version": "0.0.1",
   "repository": "https://github.com/arjunindia/custom-dokitheme",
+  "publisher": "Arjun-S",
   "engines": {
     "vscode": "^1.82.0"
   },
