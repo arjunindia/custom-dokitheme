@@ -3,6 +3,7 @@
   "displayName": "custom-dokitheme",
   "description": "A doki theme customized for me",
   "version": "0.0.1",
+  "repository": "https://github.com/arjunindia/custom-dokitheme",
   "engines": {
     "vscode": "^1.82.0"
   },
