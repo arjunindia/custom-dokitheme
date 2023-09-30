@@ -1,0 +1,21 @@
+{
+  "name": "custom-dokitheme",
+  "displayName": "custom-dokitheme",
+  "description": "A doki theme customized for me",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "custom-dokitheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/custom-dokitheme-color-theme.json"
+      }
+    ]
+  }
+}
